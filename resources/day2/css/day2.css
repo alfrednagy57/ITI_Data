@@ -1,0 +1,32 @@
+*{
+    background-color: honeydew;
+}
+p{
+    /* color: blueviolet;
+    background-color: chartreuse;
+    font-family: "Times New Roman", Times, serif; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+font-style: italic;
+font-size: 150%;
+font-weight: bold;
+background-color: blueviolet;
+background-color: azure;
+}
+p{
+    background-color: cadetblue;
+}
+/* #p1{
+    background-color: chartreuse;
+} */
+div>p{
+    background-color: aqua;
+}
+div span{
+    background-color: red;
+}
+#div1 span{
+    background-color: #3cdc14;
+}
+h1,h3,h4,h5,h6{
+    color: blue;
+}

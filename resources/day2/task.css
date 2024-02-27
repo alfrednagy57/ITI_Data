@@ -1,0 +1,20 @@
+#header
+{
+    text-align: center;
+    background-color: rgb(21, 44, 38);
+    color: white;
+    padding: 20px;
+}
+#linksbar
+{
+    display: inline-block;
+    border-left: solid 1px black;
+    padding-left: 10px;
+    
+}
+
+#customerslist
+{
+    margin-top: 20px;
+    display: inline-block;
+}
